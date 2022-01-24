@@ -1,0 +1,103 @@
+/* 
+
+Diberikan sebuah variabel num bertipe number.
+
+
+Buatlah program yang menghasilkan gambar segitiga dengan pola sebagai berikut
+
+
+Contoh 1:
+
+let num = 3
+
+/* 
+
+1. Menyusun Barisan Bintang
+Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript untuk menampilkan di console barisan asterisks (bintang). Setiap baris memiliki 1 simbol '*'.
+
+let rows1; // input the number of rows
+
+// do loops to display asterisks in the console.
+Output
+jika rows1 = 5
+
+*
+*
+*
+*
+*
+
+*/
+/* 
+
+Diberikan sebuah variabel num bertipe number.
+
+
+Buatlah program yang menghasilkan gambar segitiga dengan pola sebagai berikut
+
+
+Contoh 1:
+
+let num = 3
+
+
+//output yang diharapkan
+
+  x
+
+ xox
+
+xoxox
+
+
+Contoh 2:
+
+let num = 6
+
+
+
+//output yang diharapkan
+
+     x
+
+    xox
+
+   xoxox
+
+  xoxoxox
+
+ xoxoxoxox
+
+xoxoxoxoxox
+
+*/
+
+/* Diberikan seubah variable kata bertipe String.
+
+
+Buatlah program dimana program tersebut akan menghitung jumlah karakter x dan jumlah karakter o. Setelah perhitungan selesai maka tampilkan true jika jumlah karakter o dan x sama dan false jika tidak
+
+
+Contoh 1:
+
+var kata = 'xoxoxo'
+
+
+maka output adalah true
+
+
+
+Contoh 2:
+
+var kata = oxooxox
+
+
+maka output adalah false */
+
+/*
+Diberikan sebuah variabel kata bertipe String. Buatlah program yang dapat membalikkan kata tersebut tanpa menggunakan built in function apapun dari javascript. Kerjakan dengan menggunakan looping!
+
+Contoh: let kata = 'Javascript'
+
+maka output yang dihasilkan adalah 'tpircsavaJ' 
+*/
